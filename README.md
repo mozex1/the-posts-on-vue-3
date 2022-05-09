@@ -1,17 +1,11 @@
-# Learn project on Vue 3
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
+<h1 align="center">Мой блог</h1>
+<h3 align="center">Этот проект был выполнен, при изучении Vue 3</h3>
+<h4 align="center">Были реализованы:</h4>
+<ul>
+               <li>Страница с постами, загруженными с сервера</li>
+               <li>Добавление и удаление постов</li>
+               <li>Фильтрация постов</li>
+               <li>Анимации</li>
+               <li>Многостраничность</li>
+               <li>Работа с API</li>
+</ul>
